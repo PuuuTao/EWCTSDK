@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/EWCTModule.h</key>
 		<data>
-		LhPx+RMjqWglOBiwLStqQRm4Cg0=
+		dD6Per/4aQkWdYdpT3vi1oIBxyY=
 		</data>
 		<key>Headers/EWCTModuleConfigModel.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/EWCTModuleProfiles.h</key>
 		<data>
-		JXSpCNtROtpQcVupV3yj8I/zw4I=
+		fj1LzIBC6MTIvG8wfcqxo7/XZjA=
 		</data>
 		<key>Headers/EWCTSDK.h</key>
 		<data>
@@ -43,11 +43,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LhPx+RMjqWglOBiwLStqQRm4Cg0=
+			dD6Per/4aQkWdYdpT3vi1oIBxyY=
 			</data>
 			<key>hash2</key>
 			<data>
-			mTmi48wlbeZXQXJg1dzCGs3Gh98hEYBJxl460rPiZTk=
+			YOvtFDhK5ERoveuZl7x947DN56s1Dq2GKxg+AmDBsVc=
 			</data>
 		</dict>
 		<key>Headers/EWCTModuleConfigModel.h</key>
@@ -87,11 +87,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JXSpCNtROtpQcVupV3yj8I/zw4I=
+			fj1LzIBC6MTIvG8wfcqxo7/XZjA=
 			</data>
 			<key>hash2</key>
 			<data>
-			X1CSVP/8RZaCrLSs7G3LRculQ1tmz5YPul7dTnX2ekA=
+			EQshGNRjzd0skhkzcmrKlH6lO8NcnDW8gD2AlIj+gT4=
 			</data>
 		</dict>
 		<key>Headers/EWCTSDK.h</key>

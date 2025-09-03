@@ -11,9 +11,6 @@
 #import "EWCTModuleConfigModel.h"
 #import "EWCTModuleMonitorModel.h"
 
-// 升级文件
-#import "EWPeripheral+YModem.h"
-
 NS_ASSUME_NONNULL_BEGIN
 
 @interface EWCTModule : NSObject
@@ -217,17 +214,6 @@ NS_ASSUME_NONNULL_BEGIN
                              slaveCount: (NSInteger)slaveCount
                            slaveSNArray: (NSArray<NSString *> *)slaveSNArray
                                 handler: (EWCTModuleConfigSlaveSNHandler)handler;
-
-/// OTA升级
-/// - Parameters:
-///   - ctModuleName: CT蓝牙广播号
-///   - upgradeDelegate: 升级代理
-///   - filePath: 文件路径
-///   - handler: 回调
-- (void)ctModuleUpdate:(NSString *)ctModuleName
-           upgradeDelegate:(id<EWPeripheralUpgradeDelegate>)upgradeDelegate
-                  filePath:(NSString *)filePath
-                   handler:(EWCTModuleUpgradeHandler)handler;
 
 
 @end

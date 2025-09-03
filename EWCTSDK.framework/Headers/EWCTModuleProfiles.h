@@ -105,6 +105,4 @@ typedef void (^EWCTModuleAccountAndPasswordHandler)(NSString * _Nullable ctModul
 typedef void (^EWCTModuleReadIPHandler)(NSString * _Nullable ctModuleName, NSString * _Nullable ip, NSError * _Nullable error);
 // CT读取从设备SN
 typedef void (^EWCTModuleConfigSlaveSNHandler)(NSString * _Nullable ctModuleName, NSArray <NSString *> * _Nullable slaveSNArray, NSError * _Nullable error);
-// 升级回调(名称，进度，当前时间，总时间，错误信息)
-typedef void (^EWCTModuleUpgradeHandler)(NSString * _Nullable ctModuleName, double progress, NSInteger currentTime, NSInteger totalTime, NSError * _Nullable error);
 #endif /* EWCTModuleProfiles_h */
