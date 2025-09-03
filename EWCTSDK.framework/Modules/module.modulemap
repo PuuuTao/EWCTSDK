@@ -1,0 +1,6 @@
+framework module EWCTSDK {
+  umbrella header "EWCTSDK.h"
+  export *
+
+  module * { export * }
+}
