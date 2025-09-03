@@ -15,4 +15,4 @@ FOUNDATION_EXPORT const unsigned char EWCTSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <EWCTSDK/PublicHeader.h>
 
-#import <EWCTSDK/EWCTSDK.h>
+#import <EWCTSDK/EWCTModule.h>
